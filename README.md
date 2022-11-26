@@ -31,15 +31,41 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing BTech in **Computer Science and Engineering**
 
-- 🌱 I’m exploring myself **in DSA**
+- 👨‍💻 I’m currently working on my **Competitive Programming and Problem Solving Skills**
 
-- 🔭 I’m currently working on **Machine Learning Based Fertilizer Recommender System**
+- 🤯 I’m currently learning  **DataStructures and Algorithms**
+
+- 🤩 I’m looking for on Internships in **web development, android development, python development, machine learning development**
+
+🤩 I’m looking for on Full time opportunity in **Software Development Roles**
 
 - 📫 How to reach me **ravinark23@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link](https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny**
+
+
+# **About me** :
+
+- I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
+- I 😍love to **create and modify new products** and projects👨‍💻.
+- I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
+- I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
+- Always excited and ready to **learn new skills👨‍🎓**.
+
+
+
+<!-- Contribution Graph-->
+[![Ravina's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ravinark23&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Ravinark23)
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
