@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 - 🤯 I’m currently learning  **DataStructures and Algorithms**
 
-- 🤩 I’m looking for on Internships in **web development, android development, python development, machine learning development**
+- 🤩 I’m looking for Internships in **web development, android development, python development, machine learning development**
 
-🤩 I’m looking for on Full time opportunity in **Software Development Roles**
+- 🤩 I’m looking for full time opportunity in **Software Development Roles**
 
 - 📫 How to reach me **ravinark23@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link](https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny🤩**
 
 
 # **About me** :
