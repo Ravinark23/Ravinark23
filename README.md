@@ -55,11 +55,16 @@ Here are some ideas to get you started:
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
+# **See My Projects 👇** :
+  https://github.com/Ravinark23/Projects
+
+
 
 # **See My Certifications** :
-- Internships👇🏻
+
+- Internships👇🏻<br>
     https://github.com/Ravinark23/Internship_Certificates
-- Courses👇
+- Courses👇<br>
     https://github.com/Ravinark23/Course_Certificates
 
 <!-- Contribution Graph-->
