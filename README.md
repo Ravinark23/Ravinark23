@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ravinark23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link](https://drive.google.com/file/d/1m5dmBuAJTD4xawfJGSnT3ysqEaqCRO4Q/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yL9CTnu4oFqfxGCteANzZpHs_t8gXWs3/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny🤩**
 
