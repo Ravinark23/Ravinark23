@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate computer science enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinark23&label=Profile%20views&color=0e75b6&style=flat" alt="ravinark23" /> </p>
 
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 
