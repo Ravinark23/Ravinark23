@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     https://github.com/Ravinark23/Course_Certificates
 
 <!-- Contribution Graph-->
-[![Ravina's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ravinark23&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Ravinark23)
+[![ ](https://activity-graph.herokuapp.com/graph?username=Ravinark23&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Ravinark23)
 
 
 
